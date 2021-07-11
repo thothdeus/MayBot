@@ -10,21 +10,31 @@
 
 ## Clone esse projeto
 
-
 > git clone https://github.com/thothdeus/MayBot
+
+## Abra o projeto
+
+> cd MayBot
 
 ## Instale as dependências:
 Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
 você acabou de clonar!!
 
+> bash install.sh
+> 
+> npm start
 
+## Para funcionar melhor:
+Antes de executar o comando abaixo, certifique-se de estar fora do diretório do projeto que
+você acabou de clonar!!
+
+> npm i -g pm2
+> 
 > cd MayBot
 > 
-> bash install.sh
-
-### Para rodar
-
-> npm start
+> pm2 start index.js
+>  
+> pm2 monit
 
 ## Agradecimento
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -38,5 +48,5 @@ você acabou de clonar!!
 ## Grupo
 * <a href="https://chat.whatsapp.com/DYvXuEkqiXZ0lTAe7uZzl1"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Grupo-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-### Donate
+### Donate e/ou Suporte
 * <a href="http://wa.me/+5511930758170"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
