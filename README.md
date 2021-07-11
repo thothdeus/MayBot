@@ -49,7 +49,7 @@ você acabou de clonar!!
 *  <a href="https://github.com/ianmsfvenom"><img alt="GitHub" src="https://img.shields.io/badge/ianmsfvenom%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Grupo
-* <a href="https://chat.whatsapp.com/DYvXuEkqiXZ0lTAe7uZzl1"><img alt="WhatsApp" src="https://img.shields.io/badge/Taberna%20Do%20Thoth-512d1b?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/DYvXuEkqiXZ0lTAe7uZzl1"><img alt="WhatsApp" src="https://img.shields.io/badge/Taberna%20Do%20Thoth-%23121011?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Suporte
 * <a href="http://wa.me/+5511930758170"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
