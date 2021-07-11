@@ -21,7 +21,10 @@ Antes de executar o comando abaixo, certifique-se de estar no diretório do proj
 você acabou de clonar!!
 
 > bash install.sh
-> 
+
+## Leia o Qr Code:
+Abra a função "Whatsapp Web" no número que será o bot
+
 > npm start
 
 ## Para funcionar melhor:
