@@ -55,4 +55,4 @@ você acabou de clonar!!
 * <a href="http://wa.me/+5511930758170"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 ### Donate
-* <a href="https://picpay.me/thothdeus"><img alt="PicPay" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+* <a href="https://picpay.me/thothdeus"><img alt="PicPay" src="https://img.shields.io/badge/PicPay-25D366?style=for-the-badge&logo=PicPay&logoColor=white" /></a>
