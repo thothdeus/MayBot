@@ -40,13 +40,13 @@ você acabou de clonar!!
 > pm2 monit
 
 ## Agradecimento
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%ff000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*  <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%ff000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*  <a href="https://github.com/KillovSky"><img alt="GitHub" src="https://img.shields.io/badge/KillovSky%20-%ff000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*  <a href="https://github.com/Polux021"><img alt="GitHub" src="https://img.shields.io/badge/Polux021%20-%ff000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*  <a href="https://github.com/italuH"><img alt="GitHub" src="https://img.shields.io/badge/italuH%20-%ff000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*  <a href="https://github.com/NourryX"><img alt="GitHub" src="https://img.shields.io/badge/NourryX%20-%ff000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*  <a href="https://github.com/ianmsfvenom"><img alt="GitHub" src="https://img.shields.io/badge/ianmsfvenom%20-%ff000000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%121212.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+*  <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%121212.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+*  <a href="https://github.com/KillovSky"><img alt="GitHub" src="https://img.shields.io/badge/KillovSky%20-%121212.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+*  <a href="https://github.com/Polux021"><img alt="GitHub" src="https://img.shields.io/badge/Polux021%20-%121212.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+*  <a href="https://github.com/italuH"><img alt="GitHub" src="https://img.shields.io/badge/italuH%20-%121212.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+*  <a href="https://github.com/NourryX"><img alt="GitHub" src="https://img.shields.io/badge/NourryX%20-%121212.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+*  <a href="https://github.com/ianmsfvenom"><img alt="GitHub" src="https://img.shields.io/badge/ianmsfvenom%20-%121212.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ## Grupo
 * <a href="https://chat.whatsapp.com/DYvXuEkqiXZ0lTAe7uZzl1"><img alt="WhatsApp" src="https://img.shields.io/badge/Taberna%20Do%20Thoth-23121011?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
